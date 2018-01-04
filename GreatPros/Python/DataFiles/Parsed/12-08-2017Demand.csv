@@ -1,0 +1,260 @@
+12/08/2017,Demand
+City,Leads
+"Chicago-Naperville-Elgin, IL-IN-WI (Metro)",774
+"Houston-The Woodlands-Sugar Land, TX (Metro)",468
+"Los Angeles-Long Beach-Anaheim, CA (Metro)",446
+"Dallas-Fort Worth-Arlington, TX (Metro)",421
+New York,401
+Philadelphia,391
+"Riverside-San Bernardino-Ontario, CA (Metro)",236
+"Seattle-Tacoma-Bellevue, WA (Metro)",233
+"Miami-Fort Lauderdale-West Palm Beach, FL (Metro)",230
+"San Antonio-New Braunfels, TX (Metro)",202
+Pittsburgh,192
+"San Francisco-Oakland-Hayward, CA (Metro)",192
+Boston,188
+"Tampa-St. Petersburg-Clearwater, FL (Metro)",173
+"Las Vegas-Henderson-Paradise, NV (Metro)",168
+"Sacramento--Roseville--Arden-Arcade, CA (Metro)",163
+"Columbus, OH (Metro)",150
+"Cleveland-Elyria, OH (Metro)",139
+"Akron, OH (Metro)",136
+"San Diego-Carlsbad, CA (Metro)",130
+"Orlando-Kissimmee-Sanford, FL (Metro)",109
+"Cincinnati, OH-KY-IN (Metro)",100
+"Phoenix-Mesa-Scottsdale, AZ (Metro)",99
+"Jacksonville, FL (Metro)",91
+"Worcester, MA-CT (Metro)",91
+"Fresno, CA (Metro)",83
+"Spokane-Spokane Valley, WA (Metro)",83
+"Tucson, AZ (Metro)",82
+"Tallahassee, FL (Metro)",78
+"Springfield, MA (Metro)",77
+"Toledo, OH (Metro)",77
+"Stockton-Lodi, CA (Metro)",75
+"Lakeland-Winter Haven, FL (Metro)",74
+"El Paso, TX (Metro)",72
+"Lubbock, TX (Metro)",72
+"North Port-Sarasota-Bradenton, FL (Metro)",71
+"Cape Coral-Fort Myers, FL (Metro)",69
+"San Jose-Sunnyvale-Santa Clara, CA (Metro)",67
+"Deltona-Daytona Beach-Ormond Beach, FL (Metro)",65
+"Allentown-Bethlehem-Easton, PA-NJ (Metro)",62
+"Salinas, CA (Metro)",62
+"Beaumont-Port Arthur, TX (Metro)",61
+"Erie, PA (Metro)",60
+"Visalia-Porterville, CA (Metro)",60
+"Youngstown-Warren-Boardman, OH-PA (Metro)",60
+"Corpus Christi, TX (Metro)",58
+"Pensacola-Ferry Pass-Brent, FL (Metro)",57
+"Bakersfield, CA (Metro)",56
+"St. Louis, MO-IL (Metro)",56
+"Naples-Immokalee-Marco Island, FL (Metro)",55
+"Ocala, FL (Metro)",55
+"Denver-Aurora-Lakewood, CO (Metro)",53
+"Wheeling, WV-OH (Metro)",53
+"Dayton, OH (Metro)",50
+"Palatka, FL (Micro)",50
+"Reading, PA (Metro)",50
+"Greeley, CO (Metro)",49
+"Kennewick-Richland, WA (Metro)",48
+"Panama City, FL (Metro)",48
+"Gainesville, FL (Metro)",47
+"Palm Bay-Melbourne-Titusville, FL (Metro)",47
+"York-Hanover, PA (Metro)",46
+"East Stroudsburg, PA (Metro)",45
+"Scranton--Wilkes-Barre--Hazleton, PA (Metro)",45
+"Lake Havasu City-Kingman, AZ (Metro)",44
+"Carbondale-Marion, IL (Metro)",43
+"Austin-Round Rock, TX (Metro)",41
+"Waco, TX (Metro)",41
+"Providence-Warwick, RI-MA (Metro)",40
+"College Station-Bryan, TX (Metro)",39
+"Peoria, IL (Metro)",39
+"Santa Maria-Santa Barbara, CA (Metro)",39
+"Port St. Lucie, FL (Metro)",38
+"McAllen-Edinburg-Mission, TX (Metro)",37
+"Huntsville, TX (Micro)",36
+"Oxnard-Thousand Oaks-Ventura, CA (Metro)",36
+"Trenton, NJ (Metro)",36
+"Harrisburg-Carlisle, PA (Metro)",35
+"Glenwood Springs, CO (Micro)",34
+"Yakima, WA (Metro)",34
+"Somerset, PA (Micro)",32
+"Homosassa Springs, FL (Metro)",31
+"Borger, TX (Micro)",30
+"El Centro, CA (Metro)",30
+"Key West, FL (Micro)",30
+"Quincy, IL-MO (Micro)",30
+"Williamsport, PA (Metro)",30
+"Ashtabula, OH (Micro)",29
+"Davenport-Moline-Rock Island, IA-IL (Metro)",29
+"Santa Rosa, CA (Metro)",29
+"Springfield, IL (Metro)",29
+"Bucyrus, OH (Micro)",28
+"Vallejo-Fairfield, CA (Metro)",28
+"Brownsville-Harlingen, TX (Metro)",27
+"Punta Gorda, FL (Metro)",27
+"Rockford, IL (Metro)",27
+"Lancaster, PA (Metro)",26
+"Texarkana, TX-AR (Metro)",26
+"Wichita Falls, TX (Metro)",26
+"Durango, CO (Micro)",25
+"Grand Junction, CO (Metro)",25
+"Aberdeen, WA (Micro)",24
+"Bellingham, WA (Metro)",24
+"Bloomington, IL (Metro)",24
+"Kankakee, IL (Metro)",24
+"Ottawa-Peru, IL (Micro)",24
+"Barnstable Town, MA (Metro)",23
+"Ellensburg, WA (Micro)",23
+"Midland, TX (Metro)",23
+"Pampa, TX (Micro)",23
+"Sebring, FL (Metro)",23
+"Chico, CA (Metro)",22
+"Laredo, TX (Metro)",22
+"Marietta, OH (Micro)",22
+"Marion, OH (Micro)",22
+"Atlantic City-Hammonton, NJ (Metro)",21
+"Brenham, TX (Micro)",21
+"Elko, NV (Micro)",21
+"Pahrump, NV (Micro)",21
+"Bradford, PA (Micro)",20
+"Colorado Springs, CO (Metro)",20
+"Crestview-Fort Walton Beach-Destin, FL (Metro)",20
+"Madera, CA (Metro)",20
+"Meadville, PA (Micro)",20
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA (Metro)",20
+"Wilmington, OH (Micro)",20
+"Abilene, TX (Metro)",19
+"Brownwood, TX (Micro)",19
+"Eureka-Arcata-Fortuna, CA (Micro)",19
+"Jacksonville, TX (Micro)",19
+"Kingsville, TX (Micro)",19
+"Levelland, TX (Micro)",19
+"Prescott, AZ (Metro)",19
+"Redding, CA (Metro)",19
+"Show Low, AZ (Micro)",19
+"Sonora, CA (Micro)",19
+"State College, PA (Metro)",19
+"Victoria, TX (Metro)",19
+"Yuba City, CA (Metro)",19
+"Freeport, IL (Micro)",18
+"Lake City, FL (Micro)",18
+"Marshall, TX (Micro)",18
+"Merced, CA (Metro)",18
+"Tyler, TX (Metro)",18
+"Fremont, OH (Micro)",17
+"Galesburg, IL (Micro)",17
+"Odessa, TX (Metro)",17
+"Ukiah, CA (Micro)",17
+"Ashland, OH (Micro)",16
+"Mineral Wells, TX (Micro)",16
+"Weirton-Steubenville, WV-OH (Metro)",16
+"Lima, OH (Metro)",15
+"Oak Harbor, WA (Micro)",15
+"Arcadia, FL (Micro)",14
+"Big Spring, TX (Micro)",14
+"Hanford-Corcoran, CA (Metro)",14
+"Lufkin, TX (Micro)",14
+"Mansfield, OH (Metro)",14
+"Mount Vernon-Anacortes, WA (Metro)",14
+"Pittsfield, MA (Metro)",14
+"Portland-Vancouver-Hillsboro, OR-WA (Metro)",14
+"Reno, NV (Metro)",14
+"Safford, AZ (Micro)",14
+"Springfield, OH (Metro)",14
+"Carson City, NV (Metro)",13
+"Decatur, IL (Metro)",13
+"Fort Collins, CO (Metro)",13
+"Greenfield Town, MA (Micro)",13
+"Lincoln, IL (Micro)",13
+"Longview, TX (Metro)",13
+"Modesto, CA (Metro)",13
+"Moses Lake, WA (Micro)",13
+"Ocean City, NJ (Metro)",13
+"Othello, WA (Micro)",13
+"Rochelle, IL (Micro)",13
+"Sandusky, OH (Micro)",13
+"Sherman-Denison, TX (Metro)",13
+"Bloomsburg-Berwick, PA (Metro)",12
+"Dixon, IL (Micro)",12
+"Dumas, TX (Micro)",12
+"Huntingdon, PA (Micro)",12
+"Johnstown, PA (Metro)",12
+"Lebanon, PA (Metro)",12
+"Longview, WA (Metro)",12
+"Norwalk, OH (Micro)",12
+"Red Bluff, CA (Micro)",12
+"Selinsgrove, PA (Micro)",12
+"Shelton, WA (Micro)",12
+"Sunbury, PA (Micro)",12
+"Tiffin, OH (Micro)",12
+"Vineland-Bridgeton, NJ (Metro)",12
+"Wenatchee, WA (Metro)",12
+"Zanesville, OH (Micro)",12
+"Athens, TX (Micro)",11
+"Bonham, TX (Micro)",11
+"Canton, IL (Micro)",11
+"Clewiston, FL (Micro)",11
+"Del Rio, TX (Micro)",11
+"Killeen-Temple, TX (Metro)",11
+"Payson, AZ (Micro)",11
+"Salem, OH (Micro)",11
+"Palestine, TX (Micro)",10
+"Pullman, WA (Micro)",10
+"Wauchula, FL (Micro)",10
+"Wooster, OH (Micro)",10
+"Bremerton-Silverdale, WA (Metro)",9
+"Cambridge, OH (Micro)",9
+"Charleston-Mattoon, IL (Micro)",9
+"Indiana, PA (Micro)",8
+"Paris, TX (Micro)",8
+"Santa Cruz-Watsonville, CA (Metro)",8
+"Uvalde, TX (Micro)",8
+"Yuma, AZ (Metro)",8
+"Boulder, CO (Metro)",7
+"Burlington, IA-IL (Micro)",7
+"Canton-Massillon, OH (Metro)",7
+"Centralia, WA (Micro)",7
+"Corsicana, TX (Micro)",7
+"Coshocton, OH (Micro)",7
+"Crescent City, CA (Micro)",7
+"DuBois, PA (Micro)",7
+"Effingham, IL (Micro)",7
+"Fernley, NV (Micro)",7
+"Findlay, OH (Micro)",7
+"Fort Madison-Keokuk, IA-IL-MO (Micro)",7
+"Lewiston, ID-WA (Metro)",7
+"Lock Haven, PA (Micro)",7
+"Mount Pleasant, TX (Micro)",7
+"Olympia-Tumwater, WA (Metro)",7
+"Paducah, KY-IL (Micro)",7
+"Pottsville, PA (Micro)",7
+"San Angelo, TX (Metro)",7
+"Sierra Vista-Douglas, AZ (Metro)",7
+"Snyder, TX (Micro)",7
+"Sweetwater, TX (Micro)",7
+"Urbana, OH (Micro)",7
+"Winnemucca, NV (Micro)",7
+"Athens, OH (Micro)",6
+"Bay City, TX (Micro)",6
+"Cape Girardeau, MO-IL (Metro)",6
+"Centralia, IL (Micro)",6
+"Clearlake, CA (Micro)",6
+"Defiance, OH (Micro)",6
+"Flagstaff, AZ (Metro)",6
+"Gainesville, TX (Micro)",6
+"Montrose, CO (Micro)",6
+"Napa, CA (Metro)",6
+"New Castle, PA (Micro)",6
+"Plainview, TX (Micro)",6
+"Port Clinton, OH (Micro)",6
+"The Villages, FL (Metro)",6
+"Amarillo, TX (Metro)",5
+"Beeville, TX (Micro)",5
+"Champaign-Urbana, IL (Metro)",5
+"Fort Morgan, CO (Micro)",5
+"Macomb, IL (Micro)",5
+"Washington Court House, OH (Micro)",5
+"Kerrville, TX (Micro)",3
